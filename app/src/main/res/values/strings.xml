@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">hackathonproject</string>
+    <string-array name="State_names">
+        <item>    </item>
+        <item>Jammu Kashmir</item>
+        <item>Madhya Pradesh</item>
+        <item>Uttar Pradesh</item>
+        <item>Maharashtra</item>
+
+        <item>Gujarat</item>
+
+        <item>Rajasthan</item>
+
+
+    </string-array>
+
+</resources>
